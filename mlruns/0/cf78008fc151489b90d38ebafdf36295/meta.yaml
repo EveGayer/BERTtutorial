@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vAudience/Documents/project/IMDB%20Dataset.csv/mlruns/0/cf78008fc151489b90d38ebafdf36295/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: cf78008fc151489b90d38ebafdf36295
+run_uuid: cf78008fc151489b90d38ebafdf36295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655743696435
+status: 1
+tags: []
+user_id: vAudience
